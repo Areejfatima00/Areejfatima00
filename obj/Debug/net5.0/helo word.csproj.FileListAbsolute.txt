@@ -1,0 +1,16 @@
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.exe
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.deps.json
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.runtimeconfig.json
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.runtimeconfig.dev.json
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.dll
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\ref\helo word.dll
+C:\Users\Terminal\OneDrive\Desktop\helo word\bin\Debug\net5.0\helo word.pdb
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.AssemblyInfoInputs.cache
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.AssemblyInfo.cs
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.dll
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\ref\helo word.dll
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.pdb
+C:\Users\Terminal\OneDrive\Desktop\helo word\obj\Debug\net5.0\helo word.genruntimeconfig.cache
